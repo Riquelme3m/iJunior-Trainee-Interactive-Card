@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://riquelme3m.github.io/iJunior-Trainee-News-Homepage/](https://riquelme3m.github.io/iJunior-Trainee-News-Homepage/)
+- Solution URL: [https://riquelme3m.github.io/iJunior-Trainee-Interactive-Card/](https://riquelme3m.github.io/iJunior-Trainee-Interactive-Card/)
 
 ### Built With
 
